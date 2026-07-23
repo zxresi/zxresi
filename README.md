@@ -71,17 +71,6 @@ I'm a backend developer focused on creating reliable Discord bots, APIs, and aut
 
 # <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ca.svg" width="20" height="20" style="vertical-align:middle;margin-right:6px;" alt="stats"/> GitHub Stats
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=zxresi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxresi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-  />
-</p>
 
 <p align="center">
   <img
