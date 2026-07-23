@@ -19,7 +19,7 @@ Building modern Discord bots, backend systems, and automation tools.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D1D5DB"/>
 </a>
 
-<a href="https://discord.com/">
+<a href="https://discord.com/users/1221526400259850270">
   <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=D1D5DB"/>
 </a>
 
