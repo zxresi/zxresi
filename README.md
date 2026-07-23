@@ -19,7 +19,7 @@ Building modern Discord bots, backend systems, and automation tools.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D1D5DB"/>
 </a>
 
-<a href="https://discord.com/users/SEU_ID">
+<a href="https://discord.com/">
   <img src="https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=D1D5DB"/>
 </a>
 
@@ -72,14 +72,21 @@ I'm a backend developer focused on creating reliable Discord bots, APIs, and aut
 # <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ca.svg" width="20" height="20" style="vertical-align:middle;margin-right:6px;" alt="stats"/> GitHub Stats
 
 <p align="center">
-  <!-- Fallback badges used because the dynamic stats card failed to load for you -->
-  <img src="https://img.shields.io/github/followers/zxresi?label=Followers&style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/zxresi/zxresi?label=Last+Commit&style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Last commit" />
-  <img src="https://img.shields.io/github/commit-activity/m/zxresi?style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Commit activity" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=zxresi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxresi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/zxresi">Open my GitHub profile for full stats</a>
+  <img
+    src="https://streak-stats.demolab.com?user=zxresi&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
