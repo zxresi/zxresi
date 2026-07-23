@@ -40,7 +40,7 @@ I'm a backend developer focused on creating reliable Discord bots, APIs, and aut
 
 ---
 
-# 🛠️ Tech Stack
+# <img src="https://twemoji.maxcdn.com/v/latest/svg/1f6e0.svg" width="20" height="20" style="vertical-align:middle;margin-right:6px;" alt="tools"/> Tech Stack
 
 ### Languages
 
@@ -48,7 +48,6 @@ I'm a backend developer focused on creating reliable Discord bots, APIs, and aut
   <img src="https://img.shields.io/badge/JavaScript-181717?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-181717?style=flat-square&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/Lua-181717?style=flat-square&logo=lua&logoColor=2C2D72"/>
-  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=3776AB"/>
 </p>
 
 ### Backend & Frameworks
@@ -66,29 +65,21 @@ I'm a backend developer focused on creating reliable Discord bots, APIs, and aut
   <img src="https://img.shields.io/badge/MySQL-181717?style=flat-square&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Supabase-181717?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
   <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=FCC624"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# <img src="https://twemoji.maxcdn.com/v/latest/svg/1f4ca.svg" width="20" height="20" style="vertical-align:middle;margin-right:6px;" alt="stats"/> GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=zxresi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxresi&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"
-  />
+  <!-- Fallback badges used because the dynamic stats card failed to load for you -->
+  <img src="https://img.shields.io/github/followers/zxresi?label=Followers&style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/zxresi/zxresi?label=Last+Commit&style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Last commit" />
+  <img src="https://img.shields.io/github/commit-activity/m/zxresi?style=flat-square&color=181717&logo=github&logoColor=D1D5DB" alt="Commit activity" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=zxresi&theme=github-dark&hide_border=true"
-  />
+  <a href="https://github.com/zxresi">Open my GitHub profile for full stats</a>
 </p>
 
 ---
